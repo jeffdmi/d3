@@ -1,15 +1,15 @@
 {
   "nodes": [
-    {"id": "Context", "group": 1},
+    {"id": "C", "group": 1},
     {"id": "Napoleon", "group": 1},
     {"id": "Mlle.Baptistine", "group": 1},
     {"id": "Mme.Magloire", "group": 1},
     {"id": "CountessdeLo", "group": 1}
   ],
   "links": [
-    {"source": "Napoleon", "target": "Context", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "Context", "value": 8},
-    {"source": "Mme.Magloire", "target": "Context", "value": 6},
-    {"source": "CountessdeLo", "target": "Context", "value": 1}
+    {"source": "Napoleon", "target": "C", "value": 1},
+    {"source": "Mlle.Baptistine", "target": "C", "value": 8},
+    {"source": "Mme.Magloire", "target": "C", "value": 6},
+    {"source": "CountessdeLo", "target": "C", "value": 1}
   ]
 }

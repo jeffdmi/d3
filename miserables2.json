@@ -4,12 +4,17 @@
     {"id": "Methods", "group": 1},
     {"id": "Sources", "group": 1},
     {"id": "Biases", "group": 1},
-    {"id": "CountessdeLo", "group": 1}
+    {"id": "THE WORLD", "group": 2},
+    {"id": "CATASTROPHES", "group": 3},
+    {"id": "CHOICES", "group": 4}
   ],
   "links": [
     {"source": "Methods", "target": "CONTEXT", "value": 5},
     {"source": "Sources", "target": "CONTEXT", "value": 5},
     {"source": "Biases", "target": "CONTEXT", "value": 5},
-    {"source": "CountessdeLo", "target": "CONTEXT", "value": 1}
+    {"source": "THE WORLD", "target": "THE WORLD", "value": 1},
+    {"source": "CATASTROPHES", "target": "THE WORLD", "value": 1},
+    {"source": "CHOICES", "target": "THE WORLD", "value": 1}
+    
   ]
 }

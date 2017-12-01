@@ -20,7 +20,9 @@
     {"id": "Thenardier", "group": 4},
     {"id": "Cosette", "group": 5},
     {"id": "Javert", "group": 4},
-  ],
+  ]
+}
+
   "links": [
     {"source": "Napoleon", "target": "Myriel", "value": 1},
     {"source": "Mlle.Baptistine", "target": "Myriel", "value": 8},

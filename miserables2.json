@@ -17,7 +17,7 @@
     {"source": "Biases", "target": "CONTEXT", "value": 5},
     {"source": "THE WORLD", "target": "THE WORLD", "value": 1},
     {"source": "Non-Earth", "target": "THE WORLD", "value": 5},
-    {"source": "Earth", "target": "THE WORLD", "value": 5}
+    {"source": "Earth", "target": "THE WORLD", "value": 5},
     {"source": "Humans", "target": "THE WORLD", "value": 5},
     {"source": "CATASTROPHES", "target": "THE WORLD", "value": 1},
     {"source": "CHOICES", "target": "THE WORLD", "value": 1}

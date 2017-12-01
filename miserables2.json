@@ -25,7 +25,7 @@
     {"source": "Non-Earth", "target": "THE WORLD", "value": 5},
     {"source": "Earth", "target": "THE WORLD", "value": 5},
     {"source": "Humans", "target": "THE WORLD", "value": 5},
-    {"source": "CATASTROPHES", "target": "CATASTROPHES", "value": 1},
+    {"source": "CATASTROPHES", "target": "Earth", "value": 1},
     {"source": "Past", "target": "CATASTROPHES", "value": 5},
     {"source": "Present", "target": "CATASTROPHES", "value": 5},
     {"source": "Future", "target": "CATASTROPHES", "value": 5},

@@ -5,6 +5,9 @@
     {"id": "Sources", "group": 1},
     {"id": "Biases", "group": 1},
     {"id": "THE WORLD", "group": 2},
+    {"id": "Non-Earth", "group": 2},
+    {"id": "Earth", "group": 2},
+    {"id": "Humans", "group": 2},
     {"id": "CATASTROPHES", "group": 3},
     {"id": "CHOICES", "group": 4}
   ],
@@ -13,7 +16,10 @@
     {"source": "Sources", "target": "CONTEXT", "value": 5},
     {"source": "Biases", "target": "CONTEXT", "value": 5},
     {"source": "THE WORLD", "target": "THE WORLD", "value": 1},
-    {"source": "CATASTROPHES", "target": "THE WORLD", "value": 1},
+    {"source": "Non-Earth", "target": "THE WORLD", "value": 1},
+    {"source": "Earth", "target": "THE WORLD", "value": 1}
+    {"source": "Humans", "target": "THE WORLD", "value": 1},
+    {"source": "CATASTROPHES", "target": "CATASTROPHES", "value": 1},
     {"source": "CHOICES", "target": "THE WORLD", "value": 1}
     
   ]

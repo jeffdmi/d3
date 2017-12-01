@@ -29,7 +29,7 @@
     {"source": "Past", "target": "CATASTROPHES", "value": 5},
     {"source": "Present", "target": "CATASTROPHES", "value": 5},
     {"source": "Future", "target": "CATASTROPHES", "value": 5},
-    {"source": "CHOICES", "target": "CHOICES", "value": 1},
+    {"source": "CHOICES", "target": "Earth", "value": 7},
     {"source": "Us", "target": "CHOICES", "value": 5},
     {"source": "You", "target": "CHOICES", "value": 5},
     {"source": "Action", "target": "CHOICES", "value": 5} 

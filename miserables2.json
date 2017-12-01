@@ -1,15 +1,15 @@
 {
   "nodes": [
-    {"id": "C", "group": 1},
-    {"id": "Napoleon", "group": 1},
-    {"id": "Mlle.Baptistine", "group": 1},
-    {"id": "Mme.Magloire", "group": 1},
+    {"id": "CONTEXT", "group": 1},
+    {"id": "Methods", "group": 1},
+    {"id": "Sources", "group": 1},
+    {"id": "Biases", "group": 1},
     {"id": "CountessdeLo", "group": 1}
   ],
   "links": [
-    {"source": "Napoleon", "target": "C", "value": 1},
-    {"source": "Mlle.Baptistine", "target": "C", "value": 8},
-    {"source": "Mme.Magloire", "target": "C", "value": 6},
-    {"source": "CountessdeLo", "target": "C", "value": 1}
+    {"source": "Methods", "target": "CONTEXT", "value": 5},
+    {"source": "Sources", "target": "CONTEXT", "value": 5},
+    {"source": "Biases", "target": "CONTEXT", "value": 5},
+    {"source": "CountessdeLo", "target": "CONTEXT", "value": 1}
   ]
 }

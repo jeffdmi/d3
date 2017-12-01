@@ -32,6 +32,6 @@
     {"source": "Cravatte", "target": "Myriel", "value": 1},
     {"source": "Brujon", "target": "Eponine", "value": 1},
     {"source": "Brujon", "target": "Claquesous", "value": 1},
-    {"source": "Brujon", "target": "Montparnasse", "value": 1},
+    {"source": "Brujon", "target": "Montparnasse", "value": 1}
   ]
 }

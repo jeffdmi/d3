@@ -10,7 +10,7 @@
     {"source": "Napoleon", "target": "Context", "value": 1},
     {"source": "Mlle.Baptistine", "target": "Context", "value": 8},
     {"source": "Mme.Magloire", "target": "Context", "value": 10},
-    {"source": "Mme.Magloire", "target": "Mlle.Baptistine", "value": 6},
+    {"source": "Mme.Magloire", "target": "Context", "value": 6},
     {"source": "CountessdeLo", "target": "Context", "value": 1}
   ]
 }
